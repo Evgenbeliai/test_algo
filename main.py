@@ -2,7 +2,7 @@ import pygame
 
 pygame.init()
 
-width, height = 1200, 700';l';l';
+width, height = 1200. 700
 screen = pygame.display.set_mode((width, height))
 
 # Загрузка заднего фона и персонажа
